@@ -1,5 +1,5 @@
 # Проекты реализованные мной, в процессе обучения в Яндекс.Практикуме на QA engineer #
-# [Yandex_Practicum_QA-engineer](https://practicum.yandex.ru/qa-engineer/)
+## [Yandex_Practicum_QA-engineer](https://practicum.yandex.ru/qa-engineer/) ##
 
 **Спринт 1** Проектирование тестов
 >Введение в тест-дизайн и тест-анализ. Тестирование сервиса "Яндекс.Маршруты". Составление mind-map, блок-схем. Создание чек-листов и тест-кейсов.
@@ -11,17 +11,3 @@
 >Работа с консолью. Подключение к удаленному серверу. SQL запросы, работа с СУБД PostgreSQL. Греп логов на удаленном сервере через терминал. Проектирование ER диаграмм.
 **Спринт 5** Основы автоматизации тестирования
 >Основы языка программирования JavaScript. Работа с библиотекой Puppeteer. Жизненный цикл разработки. Виды тестирования.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
