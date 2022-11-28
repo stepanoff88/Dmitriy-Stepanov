@@ -20,8 +20,8 @@
 - [Составление баг-репортов по результатам проведенных проверок](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
 ---
 ### Спринт 4 Основы баз данных
-- Работа с командной строкой, просмотр логов, копирование и перемещение, фильтрация содержимого файлов
-- Составление SQL-запросов и работа с СУБД PostgreSQL
+- [Работа с командной строкой, просмотр логов, копирование и перемещение, фильтрация содержимого файлов](https://docs.google.com/document/d/1rNJRWAWm0eS2JwVUwgFXD8bY5JsJyNWwnK4RJL1gxAo/edit?usp=sharing)
+- [Составление SQL-запросов и работа с СУБД PostgreSQL](https://docs.google.com/document/d/1rNJRWAWm0eS2JwVUwgFXD8bY5JsJyNWwnK4RJL1gxAo/edit?usp=sharing)
 - Работа с таблицами по ER-диаграмме
 ---
 ### Спринт 5 Основы автоматизации тестирования
