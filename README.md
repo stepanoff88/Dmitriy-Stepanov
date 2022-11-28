@@ -3,7 +3,7 @@
 ###  Спринт 1: ###
 
 1. [Реализация mind-карты для "Яндекс.Маршрутов"](https://github.com/stepanoff88/QA_yandex_practicum/blob/main/проект%201%20спринта/mindmap.png)
-2. Блок-схема реализации логики расчета стоимости и времени "Яндекс.Маршрутов"
+2. [Блок-схема реализации логики расчета стоимости и времени "Яндекс.Маршрутов"](https://github.com/stepanoff88/QA_yandex_practicum/blob/main/проект%201%20спринта/блок%20схема.png)
 3. [Разработать тест-кейсы для интерфейса приложения "Яндекс.Маршруты"](https://docs.google.com/spreadsheets/d/1wNf9DfjQOUds_piBXM7hyCy3EN3ZlFpCHV9cNU1YAcY/edit?usp=sharing)
 
 ### Спринт 2: ###
