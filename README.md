@@ -11,9 +11,9 @@
 ### Мобильное приложение "Яндекс.Метро"
 - [Написал чек-лист для тестирования мобильного приложения "Яндекс.Метро" в эмуляторе с помощью Android Studio](https://docs.google.com/spreadsheets/d/1wuNiUlR632-jFhSg71cTxM6WlrcUqT3ail52cOs26iw/edit?usp=sharing)
 ---
-### Мобильное приложение "Яндекс.Метро"
-- [Тестирование новой функциональности в API "Яндекс.Прилавок" с помощью Postman](https://docs.google.com/spreadsheets/d/1wuNiUlR632-jFhSg71cTxM6WlrcUqT3ail52cOs26iw/edit?usp=sharing)
-- [Составление баг-репортов по результатам проведенных проверок](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
+### Приложение "Яндекс.Прилавок" (API)
+- [Написал чек-лист новой функциональности в API "Яндекс.Прилавок" и протестировал с помощью Postman](https://docs.google.com/spreadsheets/d/1wuNiUlR632-jFhSg71cTxM6WlrcUqT3ail52cOs26iw/edit?usp=sharing)
+- [Завел баг-репорты по результатм проведенных проверок](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
 ---
 ### Спринт 4 Основы баз данных
 - [Работа с командной строкой, просмотр логов, копирование и перемещение, фильтрация содержимого файлов](https://docs.google.com/document/d/1rNJRWAWm0eS2JwVUwgFXD8bY5JsJyNWwnK4RJL1gxAo/edit?usp=sharing)
