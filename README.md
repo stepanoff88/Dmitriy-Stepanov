@@ -21,9 +21,8 @@
 - [Написал чек-лист для верстки и логики сервиса](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
 - [Написал тест-кейс для мобильного приложения сервиса](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
 - [Написал чек-лист проверок API](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
-
 ---
-### Спринт 4 Основы баз данных
-- [Работа с командной строкой, просмотр логов, копирование и перемещение, фильтрация содержимого файлов](https://docs.google.com/document/d/1rNJRWAWm0eS2JwVUwgFXD8bY5JsJyNWwnK4RJL1gxAo/edit?usp=sharing)
-- [Составление SQL-запросов и работа с СУБД PostgreSQL](https://docs.google.com/document/d/1rNJRWAWm0eS2JwVUwgFXD8bY5JsJyNWwnK4RJL1gxAo/edit?usp=sharing)
-- Работа с таблицами по ER-диаграмме
+### Основы баз данных
+- [Работа с командной строкой](https://docs.google.com/document/d/1rNJRWAWm0eS2JwVUwgFXD8bY5JsJyNWwnK4RJL1gxAo/edit?usp=sharing)
+- [Составил SQL-запросы и работа с СУБД PostgreSQL](https://docs.google.com/document/d/1rNJRWAWm0eS2JwVUwgFXD8bY5JsJyNWwnK4RJL1gxAo/edit?usp=sharing)
+
