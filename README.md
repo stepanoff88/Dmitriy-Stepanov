@@ -3,10 +3,10 @@
 - [Разработал mind-map сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/blob/main/проект%201%20спринта/mindmap.png)
 - [Разработал блок-схему на логику расчета стоимости и времени маршрута сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/blob/main/проект%201%20спринта/блок%20схема.png)
 - [Написал тест-кейсы на проверку расчета времени и стоимости в пути сервиса "Яндекс.Маршруты"](https://docs.google.com/spreadsheets/d/1wNf9DfjQOUds_piBXM7hyCy3EN3ZlFpCHV9cNU1YAcY/edit?usp=sharing)
-- [Составление чек-листа для тестирования вёрстки формы бронирования и окон «Способ оплаты» и «Добавление карты»](https://docs.google.com/spreadsheets/d/1HMJfZJ0F6YSQkYUnzyx5CROUn12kUKHkxFjonXQQ6Kw/edit?usp=sharing)
-- [Составление тест-кейсов на логику кнопки "Забронировать" и функциональности бронирования](https://docs.google.com/spreadsheets/d/1HMJfZJ0F6YSQkYUnzyx5CROUn12kUKHkxFjonXQQ6Kw/edit?usp=sharing)
-- [Тестирование нового функционала реализованного только на фронтенде с помощью перехвата ответа в Charles](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/проект%202%20спринта)
-- [Составление баг-репортов по результатам проведенных проверок веб-сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
+- [Написал чек-листы для тестирования вёрстки формы бронирования и окон «Способ оплаты» и «Добавление карты»](https://docs.google.com/spreadsheets/d/1HMJfZJ0F6YSQkYUnzyx5CROUn12kUKHkxFjonXQQ6Kw/edit?usp=sharing)
+- [Написал тест-кейсы на логику кнопки "Забронировать" и функциональности бронирования](https://docs.google.com/spreadsheets/d/1HMJfZJ0F6YSQkYUnzyx5CROUn12kUKHkxFjonXQQ6Kw/edit?usp=sharing)
+- [Протестировал новый функционал реализованный только на фронтенде с помощью перехвата ответа в Charles](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/проект%202%20спринта)
+- [Завел баг-репорты по результатам проведенных проверок веб-сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
 ---
 ### Спринт 3 Тестирование мобильных приложений и API
 - Изучение видов мобильных приложений, REST, SOAP, JSON, XML
