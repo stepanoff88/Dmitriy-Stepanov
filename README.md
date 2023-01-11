@@ -9,7 +9,7 @@
 - [Завел баг-репорты по результатам проведенных проверок веб-сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
 ---
 ### Мобильное приложение "Яндекс.Метро"
-- [Написал чек-лист для тестирования мобильного приложения "Яндекс.Метро" в эмуляторе с помощью Android Studio](https://docs.google.com/spreadsheets/d/1wuNiUlR632-jFhSg71cTxM6WlrcUqT3ail52cOs26iw/edit?usp=sharing)
+- [Написал чек-лист для мобильного приложения "Яндекс.Метро", протестировал с помощью эмулятора Android Studio](https://docs.google.com/spreadsheets/d/1wuNiUlR632-jFhSg71cTxM6WlrcUqT3ail52cOs26iw/edit?usp=sharing)
 ---
 ### Приложение "Яндекс.Прилавок" (API)
 - [Написал чек-лист новой функциональности в API "Яндекс.Прилавок" и протестировал с помощью Postman](https://docs.google.com/spreadsheets/d/1wuNiUlR632-jFhSg71cTxM6WlrcUqT3ail52cOs26iw/edit?usp=sharing)
