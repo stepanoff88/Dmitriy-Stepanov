@@ -6,6 +6,7 @@
 - [Написал чек-листы для тестирования вёрстки формы бронирования и окон «Способ оплаты» и «Добавление карты»](https://docs.google.com/spreadsheets/d/1tiZ6ArJdXK7w7C6-86BCfmIKuGaCsBBI6UXYc0t15sQ/edit?usp=sharing)
 - [Написал тест-кейсы на логику кнопки "Забронировать" и функциональности бронирования](https://docs.google.com/spreadsheets/d/1rgz_xJaZsGWI0r73M75f-VhOOM1vaL-9yApgMxwsHTc/edit?usp=sharing)
 - [Протестировал новый функционал реализованный только на фронтенде с помощью перехвата ответа в Charles](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/проект%202%20спринта)
+- -- Чек лист
 - [Завел баг-репорты по результатам проведенных проверок веб-сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
 ---
 ### Мобильное приложение "Яндекс.Метро"
