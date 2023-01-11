@@ -31,4 +31,7 @@
 ---
 ### Диплом, приложение Яндекс.Самокат
 - [Разработал mindmap логики работы сервиса и верстки по требованиям и макетам](https://drive.google.com/file/d/14KCxDERmAfROauzY1Z0Ch67u9Q9sgkXQ/view?usp=share_link)
-- Проектирование и выполните проверок, оформление баг-репортов
+- [Написал чек-лист валидации полей по классам эквивалентности и граничных значей](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
+- [Написал чек-лист для верстки и логики сервиса](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
+- [Написал тест-кейс для мобильного приложения сервиса](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
+- [Написал чек-лист проверок API](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
