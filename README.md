@@ -1,9 +1,8 @@
 # Проекты реализованные мной, в процессе обучения в Яндекс.Практикуме на QA engineer #
-### Спринт 1 Проектирование тестов
-- Введение в техники тест-анализа и тест-дизайна
-- [Составление mind-map сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/blob/main/проект%201%20спринта/mindmap.png)
-- [Составление блок-схемы на логику расчета стоимости и времени маршрута сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/blob/main/проект%201%20спринта/блок%20схема.png)
-- [Создание тест-кейсов на проверку расчета времени и стоимости в пути собственного автомобиля сервиса "Яндекс.Маршруты"](https://docs.google.com/spreadsheets/d/1wNf9DfjQOUds_piBXM7hyCy3EN3ZlFpCHV9cNU1YAcY/edit?usp=sharing)
+### Приложение "Яндекс.Маршруты"
+- [Разработал mind-map сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/blob/main/проект%201%20спринта/mindmap.png)
+- [Разработал блок-схему на логику расчета стоимости и времени маршрута сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/blob/main/проект%201%20спринта/блок%20схема.png)
+- [Написал тест-кейсы на проверку расчета времени и стоимости в пути собственного автомобиля сервиса "Яндекс.Маршруты"](https://docs.google.com/spreadsheets/d/1wNf9DfjQOUds_piBXM7hyCy3EN3ZlFpCHV9cNU1YAcY/edit?usp=sharing)
 ---
 ### Спринт 2 Тестирование веб-приложений 
 - Изучение клиент-серверной архитектуры, URL, протоколы HTTP (HTTPS), структура HTTP-запроса и ответа
