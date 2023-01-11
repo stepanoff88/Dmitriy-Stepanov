@@ -4,7 +4,7 @@
 - [Разработал блок-схему на логику расчета стоимости и времени маршрута сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/blob/main/проект%201%20спринта/блок%20схема.png)
 - [Написал тест-кейсы на проверку расчета времени и стоимости в пути сервиса "Яндекс.Маршруты"](https://docs.google.com/spreadsheets/d/157JmAKMtj0iavREmrJ9RiLcv5IppR2H_Gv4R3TvDFvg/edit?usp=sharing)
 - [Написал чек-листы для тестирования вёрстки формы бронирования и окон «Способ оплаты» и «Добавление карты»](https://docs.google.com/spreadsheets/d/1tiZ6ArJdXK7w7C6-86BCfmIKuGaCsBBI6UXYc0t15sQ/edit?usp=sharing)
-- [Написал тест-кейсы на логику кнопки "Забронировать" и функциональности бронирования](https://docs.google.com/spreadsheets/d/1HMJfZJ0F6YSQkYUnzyx5CROUn12kUKHkxFjonXQQ6Kw/edit?usp=sharing)
+- [Написал тест-кейсы на логику кнопки "Забронировать" и функциональности бронирования](https://docs.google.com/spreadsheets/d/1rgz_xJaZsGWI0r73M75f-VhOOM1vaL-9yApgMxwsHTc/edit?usp=sharing)
 - [Протестировал новый функционал реализованный только на фронтенде с помощью перехвата ответа в Charles](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/проект%202%20спринта)
 - [Завел баг-репорты по результатам проведенных проверок веб-сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
 ---
