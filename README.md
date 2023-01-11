@@ -8,10 +8,10 @@
 - [Протестировал новый функционал реализованный только на фронтенде с помощью перехвата ответа в Charles](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/проект%202%20спринта)
 - [Завел баг-репорты по результатам проведенных проверок веб-сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
 ---
-### Спринт 3 Тестирование мобильных приложений и API
-- Изучение видов мобильных приложений, REST, SOAP, JSON, XML
+### Мобильное приложение "Яндекс.Метро"
 - [Тестирование мобильного приложения "Яндекс.Метро" в эмуляторе с помощью Android Studio](https://docs.google.com/spreadsheets/d/1wuNiUlR632-jFhSg71cTxM6WlrcUqT3ail52cOs26iw/edit?usp=sharing)
-- Изучение документации в ApiDoc и Swagger.
+---
+### Мобильное приложение "Яндекс.Метро"
 - [Тестирование новой функциональности в API "Яндекс.Прилавок" с помощью Postman](https://docs.google.com/spreadsheets/d/1wuNiUlR632-jFhSg71cTxM6WlrcUqT3ail52cOs26iw/edit?usp=sharing)
 - [Составление баг-репортов по результатам проведенных проверок](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
 ---
