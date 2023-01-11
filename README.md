@@ -18,7 +18,7 @@
 ### Приложение Яндекс.Самокат
 - [Разработал mindmap логики работы сервиса и верстки по требованиям и макетам](https://github.com/stepanoff88/Dmitriy-Stepanov/blob/main/Яндекс.Самокат/mindmap%20Яндекс.Самокат.png)
 - [Написал чек-лист валидации полей по классам эквивалентности и граничных значей](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
-- [Написал чек-лист для верстки и логики сервиса](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
+- [Написал чек-лист для верстки и логики сервиса](https://docs.google.com/spreadsheets/d/1n4V2aIGdRD1cOStdbd0l3jBoWs1DiwR3DW4m9tOVMOg/edit?usp=sharing)
 - [Написал тест-кейс для мобильного приложения сервиса](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
 - [Написал чек-лист проверок API](https://docs.google.com/spreadsheets/d/1hhd0TKh7Tqfq5rq2o8Xc-_DkYsi0ZmekXUz5hm1by_s/edit?usp=sharing)
 ---
