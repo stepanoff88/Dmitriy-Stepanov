@@ -12,7 +12,7 @@
 - [Написал чек-лист для мобильного приложения "Яндекс.Метро", протестировал с помощью эмулятора Android Studio](https://docs.google.com/spreadsheets/d/1qnFWZnUolDV_aO551CZ4wWLc4tUL-hriOUbHPCbk4FU/edit?usp=sharing)
 ---
 ### Приложение "Яндекс.Прилавок" (API)
-- [Написал чек-лист новой функциональности в API "Яндекс.Прилавок" и протестировал с помощью Postman](https://docs.google.com/spreadsheets/d/1wuNiUlR632-jFhSg71cTxM6WlrcUqT3ail52cOs26iw/edit?usp=sharing)
+- [Написал чек-лист новой функциональности в API "Яндекс.Прилавок" и протестировал с помощью Postman](https://docs.google.com/spreadsheets/d/15t8DHsxqnhOCDDJNRzNpjvjtHkBauiVNMH4WQUr0CfE/edit?usp=sharing)
 - [Завел баг-репорты по результатм проведенных проверок](https://github.com/stepanoff88/QA_yandex_practicum/tree/main/баг%20репорты)
 ---
 ### Приложение Яндекс.Самокат
