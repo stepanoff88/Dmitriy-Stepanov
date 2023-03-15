@@ -16,11 +16,11 @@
 ---
 ### Приложение "Яндекс.Прилавок" (API)
 - [Написал чек-лист новой функциональности в API "Яндекс.Прилавок" и протестировал с помощью Postman](https://docs.google.com/spreadsheets/d/15t8DHsxqnhOCDDJNRzNpjvjtHkBauiVNMH4WQUr0CfE/edit?usp=sharing)
-- [Завел баг-репорты по результатм проведенных проверок](https://github.com/stepanoff88/Dmitriy-Stepanov/tree/main/Баг-репорты)
+- [Завел баг-репорты по результатам проведенных проверок](https://github.com/stepanoff88/Dmitriy-Stepanov/tree/main/Баг-репорты)
 ---
 ### Приложение Яндекс.Самокат
 - [Разработал mindmap логики работы сервиса и верстки по требованиям и макетам](https://github.com/stepanoff88/Dmitriy-Stepanov/blob/main/Яндекс.Самокат/mindmap%20Яндекс.Самокат.png)
-- [Написал чек-лист валидации полей по классам эквивалентности и граничных значей](https://docs.google.com/spreadsheets/d/1nd6ybt3ZbzxVQV8yTHk0lm8eVaeRcoUsu8vaxm7DDm8/edit?usp=sharing)
+- [Написал чек-лист валидации полей по классам эквивалентности и граничных значений](https://docs.google.com/spreadsheets/d/1nd6ybt3ZbzxVQV8yTHk0lm8eVaeRcoUsu8vaxm7DDm8/edit?usp=sharing)
 - [Написал чек-лист для верстки и логики сервиса](https://docs.google.com/spreadsheets/d/1n4V2aIGdRD1cOStdbd0l3jBoWs1DiwR3DW4m9tOVMOg/edit?usp=sharing)
 - [Написал тест-кейс для мобильного приложения сервиса](https://docs.google.com/spreadsheets/d/1mNYB4UVhC4FhDR4Z09g8XkWSDWrHrTSZf7vjM0MRoJE/edit?usp=sharing)
 - [Написал чек-лист проверок API](https://docs.google.com/spreadsheets/d/1GAOEM9DbzDxJChZH3wnYwVShi1BqQW85MFT_YvcnOrM/edit?usp=sharing)
