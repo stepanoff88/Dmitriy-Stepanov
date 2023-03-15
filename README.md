@@ -5,7 +5,7 @@
 - [Написал тест-кейсы на проверку расчета времени и стоимости в пути сервиса "Яндекс.Маршруты"](https://docs.google.com/spreadsheets/d/157JmAKMtj0iavREmrJ9RiLcv5IppR2H_Gv4R3TvDFvg/edit?usp=sharing)
 - [Написал чек-листы для тестирования вёрстки формы бронирования и окон «Способ оплаты» и «Добавление карты»](https://docs.google.com/spreadsheets/d/1tiZ6ArJdXK7w7C6-86BCfmIKuGaCsBBI6UXYc0t15sQ/edit?usp=sharing)
 - [Написал тест-кейсы на логику кнопки "Забронировать" и функциональности бронирования](https://docs.google.com/spreadsheets/d/1rgz_xJaZsGWI0r73M75f-VhOOM1vaL-9yApgMxwsHTc/edit?usp=sharing)
-   - [Написал чек-лист на тестирование вёрстки формы бронирования и нагивационной карты сервиса "Яндекс.Маршруты"](https://docs.google.com/spreadsheets/d/1lSmHZbRrfO0qH1rIeJT388RGI5ZalTIoQTGrkvz-La8/edit?usp=sharing)
+   - [Написал чек-лист на тестирование вёрстки формы бронирования и навигационной карты сервиса "Яндекс.Маршруты"](https://docs.google.com/spreadsheets/d/1lSmHZbRrfO0qH1rIeJT388RGI5ZalTIoQTGrkvz-La8/edit?usp=sharing)
 - [Протестировал новый функционал реализованный только на фронтенде с помощью перехвата ответа в Charles](https://github.com/stepanoff88/Dmitriy-Stepanov/tree/main/Charles)
    - [Чек лист и результаты нового вида транспорта Аэротакси](https://docs.google.com/spreadsheets/d/1JHQjLfFA0QFcng_DAlEWc-M_5LJ6Wt1M51otG1Mx5fQ/edit?usp=sharing) 
 - [Завел баг-репорты по результатам проведенных проверок веб-сервиса "Яндекс.Маршруты"](https://github.com/stepanoff88/Dmitriy-Stepanov/tree/main/Баг-репорты)
